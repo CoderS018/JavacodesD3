@@ -1,2 +1,2 @@
-# Javacodes-D2
+# JavacodesD2
 java codes
